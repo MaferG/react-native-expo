@@ -7,7 +7,7 @@ Expo
 
 Steps :
 
--Clone the repo
--Use the command npm install
--Finally use npm start
--Wait to server start and read the QR code with expo app in the cellphone
+-> Clone
+-> npm install
+-> npm start
+-> Wait to server start and read the QR code with expo app in the cellphone
